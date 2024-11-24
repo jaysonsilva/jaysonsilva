@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Olá eu sou o Jayson!
+## Olá 👋 eu sou o Jayson!
 
 
 <div style="display: inline_block"><br>
