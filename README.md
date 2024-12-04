@@ -1,7 +1,7 @@
 ## Olá! Que bom te ver por aqui.
 
 Bem-vindo ao meu perfil!<br><br>
-Sou o Jayson, aqui você encontrará meus projeto de automação de processos em python.
+Sou o Jayson, aqui você encontrará meus projetos de automação de processos em python.
 
 
 <div style="display: inline_block"><br>
