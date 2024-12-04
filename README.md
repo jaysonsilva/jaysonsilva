@@ -13,7 +13,10 @@ Sou o Jayson, aqui você encontrará meus projeto de automação de processos em
 <img align="center" alt="jayson-SQLAlchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg">
 <img align="center" alt="jayson-SQLAlchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
 
-</div>
+</div><br>
+  
+  
+  Estou atualmente estudando sobre Machine Learning e Análise de Dados.
   
   ##
  Onde você pode me encontrar:
