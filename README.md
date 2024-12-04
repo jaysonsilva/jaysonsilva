@@ -1,6 +1,6 @@
 ## Olá! Que bom te ver por aqui.
 
-Bem-vindo ao meu perfil!<br>
+Bem-vindo ao meu perfil!<br><br>
 Sou o Jayson, aqui você encontrará meus projeto de automação de processos em python.
 
 
@@ -10,6 +10,8 @@ Sou o Jayson, aqui você encontrará meus projeto de automação de processos em
   <img align="center" alt="jayson-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg">
   <img align="center" alt="jayson-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
 <img align="center" alt="jayson-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+<img align="center" alt="jayson-SQLAlchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg">
+<img align="center" alt="jayson-SQLAlchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
 
 </div>
   
